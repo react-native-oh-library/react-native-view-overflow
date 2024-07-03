@@ -1,7 +1,0 @@
-{
-  module: {
-    name: 'view_overflow',
-    type: 'har',
-    deviceTypes: ['default'],
-  },
-}
