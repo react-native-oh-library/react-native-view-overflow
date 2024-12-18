@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-view-overflow",
+        "License": "MIT License",
+        "License File": "https://github.com/entria/react-native-view-overflow/blob/master/LICENSE",
+        "Version Number": "0.0.5",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/entria/react-native-view-overflow",
+        "Description": "Fix Overflow in react-native for Android"
+    }
+]
